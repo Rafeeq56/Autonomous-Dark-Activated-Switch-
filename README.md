@@ -1,5 +1,10 @@
 #Autonomous-Dark-Activated-Switch-
+
+
 #I've designed  and  constructed  an  autonomous  adjustable  dark-activated  switch  using electronic  components.  This  involves a  circuit  that  senses  changes  in  ambient light and controls the activation of a load (e.g., an AC light bulb) based on user-adjustable light intensity using a suitable potentiometer. 
+
+
+
 #Code using Arduino IDE
 const int lightSensorPin = A0;   // Analog pin connected to the light sensor
 const int potentiometerPin = A1; // Analog pin connected to the potentiometer
